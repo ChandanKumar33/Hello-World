@@ -3,4 +3,4 @@ GitHub Start
 
 Hi,
 
-My First repository on Github.
+First repository on Github.
